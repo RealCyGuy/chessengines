@@ -29,4 +29,4 @@ You can choose an engine from the list above with the parameter `--engine <engin
 
 ## License
 
-[MIT](https://RealCyGuy/chessengines/blob/main/LICENSE.md)
+[MIT](https://RealCyGuy/chessengines/blob/main/LICENSE)!!!
